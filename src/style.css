@@ -39,6 +39,10 @@ body {
   font-family: fantasy;
 }
 
+.active {
+  border-bottom: 1px solid;
+}
+
 .main-box {
   padding: 30px 210px;
 }
